@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @haruharo101
+- 👀 I’m interested in PS and AI
+- 🌱 I’m currently learning C++
+- 💞️ I’m looking to collaborate on idk
+- 📫 How to reach me haruharo101@gmail.com
