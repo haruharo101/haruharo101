@@ -9,7 +9,7 @@
 
 
 - 👋 Hi, I’m @haruharo101
-- 👀 I’m interested in PS and AI
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on idk
-- 📫 How to reach me haruharo101@gmail.com
+- 👀 I’m interested in Algorithm and AI
+- 🌱 I’m currently learning AI.
+- 💞️ I’m working on 미적확통컵(12/24/22).
+- 📫 How to reach me? : haruharo101@gmail.com
