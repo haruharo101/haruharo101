@@ -11,5 +11,5 @@
 - 👋 Hi, I’m @haruharo101
 - 👀 I’m interested in Algorithm and AI
 - 🌱 I’m currently learning AI.
-- 💞️ I’m working on 미적확통컵(12/24/22).
+- 💞️ I’m working on 미적확통컵(12/??/22).
 - 📫 How to reach me? : haruharo101@gmail.com
