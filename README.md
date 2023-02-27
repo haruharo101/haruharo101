@@ -18,7 +18,7 @@
 
 - 👋 Hi, I’m @haruharo101 (aka Haru_101)
 - 👀 I’m interested in Algorithm and AI
-- 🌱 I’m currently learning AI in Kookmin University.
+- 🌱 I’m currently learning AI in Kookmin University(South Korea).
 - 📫 How to reach me? : haruharo101@gmail.com
 
 <div align=center><img src="https://github-readme-stats.vercel.app/api?username=haruharo101&show_icons=true&theme=tokyonight"/><div>
