@@ -16,10 +16,9 @@
 
 <br>
 
-- 👋 Hi, I’m @haruharo101
+- 👋 Hi, I’m @haruharo101 (aka Haru_101)
 - 👀 I’m interested in Algorithm and AI
-- 🌱 I’m currently learning AI.
-- 💞️ I’m working on 미적확통컵(12/??/22).
+- 🌱 I’m currently learning AI in Kookmin University.
 - 📫 How to reach me? : haruharo101@gmail.com
 
 <div align=center><img src="https://github-readme-stats.vercel.app/api?username=haruharo101&show_icons=true&theme=tokyonight"/><div>
