@@ -10,7 +10,6 @@
   [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=studyharu_101)](https://solved.ac/studyharu_101)
 </div>
 
-
 - 👋 Hi, I’m @haruharo101
 - 👀 I’m interested in Algorithm and AI
 - 🌱 I’m currently learning AI.
