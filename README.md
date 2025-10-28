@@ -5,9 +5,6 @@
 
 <br>
 <div align=center>
-  <a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/haru_101" width="600" height="300"/></a>
-</div>
-<div align=center>
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=haru_101">
   <img src="http://mazandi.herokuapp.com/api?handle=haru_101&theme=warm"/>
 </div>
