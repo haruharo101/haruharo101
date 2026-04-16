@@ -9,7 +9,7 @@
 
 <br>
 <div align=center>
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=haru_101">
+  <img src="./BOJ memory - haru_101.png">
 </div>
 <br>
 
