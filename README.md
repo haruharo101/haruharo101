@@ -5,6 +5,7 @@
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white">
   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
   <img src="https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white">
+  <img src="https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white">
 </div>
 
 <br>
@@ -15,5 +16,6 @@
 
 - 👋 Hi, I’m @haruharo101 (aka Haru_101)
 - 👀 I’m interested in Algorithm and AI
+- 💬 Languages : Korean (Native), English (TOEIC 880, Apr. 2026), Japanese (JLPT N1, Jan. 2025)
 - 🌱 I’m currently learning AI in Kookmin University(South Korea).
 - 📫 How to reach me? : haruharo101@gmail.com
