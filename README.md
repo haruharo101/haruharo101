@@ -15,6 +15,6 @@
 
 - 👋 Hi, I’m @haruharo101 (aka Haru_101)
 - 👀 I’m interested in Algorithm and AI
-- 💬 Languages : Korean (Native), English (TOEIC 880, Apr. 2026), Japanese (JLPT N1, Jan. 2025)
+- 💬 Languages : Korean (Native), English (TOEIC 880, Apr. 2026 / TEPS 327, Apr. 2026), Japanese (JLPT N1, Jan. 2025)
 - 🌱 I’m currently learning AI in Kookmin University(South Korea).
 - 📫 How to reach me? : haruharo101@gmail.com
